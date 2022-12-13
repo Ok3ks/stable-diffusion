@@ -7,5 +7,3 @@ tasks:
     command: python main.py
     
 image: condaforge/mambaforge:22.9.0-1
-
-
